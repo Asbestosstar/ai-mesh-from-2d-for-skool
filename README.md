@@ -1,2 +1,3 @@
 # ai-mesh-from-2d-for-skool
 for school everyone else ignore
+Since my GPUs only use CUDA 6.1 there is dep sphagetti and the deps must be installed in a specific order. I have given to my school a link to download the full python instance which contains all the dep sphagetti in a 10GB zip. Simply installing from requirnments.txt will not work on CUDA 6.1 since I had to install in a certain order and remove version in order to ger a working instance. However if you are on a newer version of CUDA like CUDA 7 you may be able to install the newest versions of the packages without issues or specific versions of packages.
